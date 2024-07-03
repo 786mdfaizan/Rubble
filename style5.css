@@ -828,7 +828,7 @@ footer #boxb #upperf h6{
 
 /* ----------------------Response---------------------------- */
 
-@media (max-width:600px) {
+@media (max-width:720px) {
  
 #main nav{
     width: 100%;
